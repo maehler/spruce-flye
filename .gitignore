@@ -1,0 +1,4 @@
+.snakemake/
+flye_output*/
+logs/
+data/

@@ -1,0 +1,8 @@
+name: spruce-flye
+channels:
+    - defaults
+    - bioconda
+dependencies:
+    - flye=2.6
+    - samtools=1.9
+    - seqtk

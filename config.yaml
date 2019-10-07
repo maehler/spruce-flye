@@ -1,0 +1,2 @@
+reads: data/30x_longest_clean.fasta
+genomesize: 20000000000
